@@ -25,7 +25,7 @@ public class Fragment1 extends Fragment {
         ImageView imageView = view.findViewById(R.id.imageView);
 
         imageView.setImageResource(R.drawable.ic_1);
-        textView.setText("Ini adalah fragment 1");
+        textView.setText("Muhamad Arif Boediman");
         button.setText("Click 1");
 
         button.setOnClickListener(new View.OnClickListener() {
