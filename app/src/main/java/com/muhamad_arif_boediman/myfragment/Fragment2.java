@@ -25,7 +25,7 @@ public class Fragment2 extends Fragment {
         ImageView imageView = view.findViewById(R.id.imageView);
 
         imageView.setImageResource(R.drawable.ic_2);
-        textView.setText("Ini adalah fragment 2");
+        textView.setText("201051---");
         button.setText("Click 2");
 
         button.setOnClickListener(new View.OnClickListener() {
